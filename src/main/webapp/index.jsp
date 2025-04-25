@@ -24,7 +24,7 @@
 
     <main>
         <section id="mobiles" class="product-section">
-            <h2>Smartphones</h2>
+            <h2>only android phones</h2>
             <div class="product-grid" id="mobile-products">
                 <!-- Mobile products will be inserted here by JavaScript -->
             </div>
